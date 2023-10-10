@@ -1,0 +1,22 @@
+{
+  "name": "lunar-vscode-theme",
+  "description": "A dark theme for Visual Studio Code inspired by the colors of the LunarVim project.",
+  "displayName": "Lunar",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "icon": "assets/icon.png",
+  "keywords": ["theme", "dark", "lunar", "lunarvim", "vim", "neovim", "colorscheme"],
+  "categories": ["Themes"],
+  "publisher": "JrSchmidtt",
+  "license": "MIT",
+  "scripts": {
+    "package": "vsce package",
+    "publish": "vsce publish",
+    "prepublish": "npm run package"
+  },
+  "devDependencies": {
+    "vsce": "^2.15.0"
+  }
+}
