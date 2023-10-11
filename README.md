@@ -1,6 +1,6 @@
 # LunarVim Theme for Visual Studio Code
 
-![LunarVim Dark Theme - JavaScript](assets/demo.jpeg)
+![LunarVim Dark Theme - JavaScript](https://github.com/JrSchmidtt/lunar-vscode-theme/blob/main/assets/demo.jpeg)
 
 
 Install Link: [LunarVim Dark Theme - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=JuniorSchmidt.lunar-vscode-theme)
@@ -38,7 +38,7 @@ That's it! Your Visual Studio Code editor will now be adorned with the elegant L
 
 ## Screenshots
 
-![LunarVim Dark Theme - JavaScript](assets/demo.jpeg)
+![LunarVim Dark Theme - JavaScript](https://github.com/JrSchmidtt/lunar-vscode-theme/blob/main/assets/demo.jpeg)
 
 ## About the Author
 
@@ -47,10 +47,6 @@ LunarVim Dark Theme is maintained by Junior Schmidt. If you have any feedback, s
 ## Contribute
 
 If you'd like to contribute to the development or improvement of the LunarVim Dark Theme, visit our [GitHub repository](https://github.com/JrSchmidtt/lunar-vscode-theme).
-
-## License
-
-This extension is free to use and open-source. It is distributed under the [MIT License](LICENSE.md).
 
 ---
 
