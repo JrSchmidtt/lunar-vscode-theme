@@ -2003,7 +2003,7 @@
     "tab.border": "#1a1b26",
     "tab.activeBackground": "#1a1b26",
     "tab.activeBorder": "#00000000",
-    "tab.activeBorderTop": "#00000000",
+    "tab.activeBorderTop": "#a5cdec",
     "tab.inactiveBackground": "#15161e",
     "tab.inactiveForeground": "#ffffff80",
     "scrollbarSlider.background": "#292e42",
