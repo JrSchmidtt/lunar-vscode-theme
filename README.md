@@ -38,6 +38,8 @@ That's it! Your Visual Studio Code editor will now be adorned with the elegant L
 
 ## Screenshots
 
+![LunarVim Dark Theme - Golang](https://raw.githubusercontent.com/JrSchmidtt/lunar-vscode-theme/refs/heads/main/assets/demo-golang.png)
+
 ![LunarVim Dark Theme - JavaScript](https://raw.githubusercontent.com/JrSchmidtt/lunar-vscode-theme/main/assets/demo.jpeg)
 
 ## About the Author
