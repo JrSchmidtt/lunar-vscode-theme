@@ -1,6 +1,6 @@
 # LunarVim Theme for Visual Studio Code
 
-![LunarVim Dark Theme - JavaScript](https://raw.githubusercontent.com/JrSchmidtt/lunar-vscode-theme/main/assets/demo.jpeg)
+![LunarVim Dark Theme - Golang](https://raw.githubusercontent.com/JrSchmidtt/lunar-vscode-theme/refs/heads/main/assets/demo-golang.png)
 
 
 Install Link: [LunarVim Dark Theme - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=JuniorSchmidt.lunar-vscode-theme)
@@ -37,8 +37,6 @@ Once installed, follow these simple steps to activate the LunarVim Dark Theme:
 That's it! Your Visual Studio Code editor will now be adorned with the elegant LunarVim Dark Theme.
 
 ## Screenshots
-
-![LunarVim Dark Theme - Golang](https://raw.githubusercontent.com/JrSchmidtt/lunar-vscode-theme/refs/heads/main/assets/demo-golang.png)
 
 ![LunarVim Dark Theme - JavaScript](https://raw.githubusercontent.com/JrSchmidtt/lunar-vscode-theme/main/assets/demo.jpeg)
 
